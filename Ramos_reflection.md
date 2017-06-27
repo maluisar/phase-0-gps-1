@@ -18,4 +18,4 @@
     
 5. How was your first experience of pairing in a GPS?
 
-    I really liked it! I was nervous about the idea of a guided exercise, but once it started, I felt very confortable. It was great being able to ask questions in the spot and learning about best practices.
+    I really liked it! I was nervous about the idea of a guided exercise, but once it started, I felt very comfortable. It was great being able to ask questions in the spot and learning about best practices.
